@@ -14,4 +14,4 @@ jobs:
         with:
           WIKI_TOKEN: ${{ secrets.WIKI_TOKEN }}
           INPUT_DIR: 'samples'
-          OUTPUT_DIR: 'exports'
+          OUTPUT_DIR: 'assets'
